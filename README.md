@@ -1,2 +1,3 @@
-# spinWheel
-jQuery Plugin that creates a menu that looks like a spinWheel.
+# ferrisWheel
+The idea is to create a jQuery plugin that produces a menu that looks like a Ferris Wheel.
+
