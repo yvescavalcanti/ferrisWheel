@@ -1,1 +1,22 @@
 
+.spin-wheel{
+		position:relative;
+		//border:solid 1px black;
+		width:60%;
+		height:100%;
+		margin-right:20%;
+		margin-left:20%;
+		transition-duration:2s;
+	}
+	.spin-wheel-node{
+		visibility:hidden;
+		text-align:center;
+  		line-height:60px;
+  		position:absolute;
+  		width:60px;
+  		height:60px;
+  		background-color:red;
+  		transition-duration:2s;
+  		border-radius:60px;
+
+	}
